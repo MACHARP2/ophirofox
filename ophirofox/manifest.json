@@ -73,7 +73,8 @@
     "https://nouveau-europresse-com.ezproxy.hec.fr/*",
     "https://nouveau-europresse-com.proxy-bu1.u-bourgogne.fr/*",
     "https://nouveau-europresse-com.ezproxy.normandie-univ.fr/*",
-    "https://nouveau-europresse-com.bibdocs.u-cergy.fr/*"
+    "https://nouveau-europresse-com.bibdocs.u-cergy.fr/*",
+    "https://nouveau-europresse-com.ezproxy.normandie-univ.fr/*"
   ],
   "background": {
     "scripts": [
@@ -542,6 +543,10 @@
         {
           "name": "Université Rennes 2",
           "AUTH_URL": "https://distant.bu.univ-rennes2.fr/login?url=http://nouveau.europresse.com/access/ip/default.aspx?un=RENNES22T_1"
+        },
+        {
+          "name": "Université de Rouen Normandie",
+          "AUTH_URL": "https://nouveau-europresse-com.ezproxy.normandie-univ.fr/Search/Reading"
         },
         {
           "name": "Université Sorbonne Université",
